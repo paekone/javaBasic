@@ -135,6 +135,8 @@ public class Variable {
 	    final int MAX_NUMBER;
 	    MAX_NUMBER = 10;
 	  //  MAX_NUMBER = 100; //컴파일 에러가 발생
+	    
+
 	}
 	
 }
